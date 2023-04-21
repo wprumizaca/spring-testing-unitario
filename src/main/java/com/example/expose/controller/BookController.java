@@ -1,4 +1,4 @@
-package com.example.expose;
+package com.example.expose.controller;
 
 
 import com.example.services.contract.IBookService;
